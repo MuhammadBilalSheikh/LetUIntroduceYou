@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.4.0)
+  - BSGridCollectionViewLayout (1.2.0)
+  - BSImagePicker (2.6.0):
+    - BSGridCollectionViewLayout (~> 1.2.0)
+    - UIImageViewModeScaleAspect (= 1.5)
+  - Cosmos (11.0.3)
+  - DropDown (2)
+  - Floaty (3.0.0)
+  - JVFloatLabeledTextField (1.2.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SwiftyJSON (3.1.4)
+  - UICircularProgressRing (1.6.2)
+  - UIImageViewModeScaleAspect (1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - BSImagePicker (~> 2.4)
+  - Cosmos (~> 11.0)
+  - DropDown
+  - Floaty (~> 3.0.0)
+  - JVFloatLabeledTextField
+  - SDWebImage (~> 3.8)
+  - SwiftyJSON
+  - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  BSGridCollectionViewLayout: 8f12c8e1e08c47057f5a39a6828f4395f043d78f
+  BSImagePicker: 7b740d0a9f23160bcdca01f179445583bd1c09b0
+  Cosmos: eb506859929f4add2d2aec822a27efb2f718a95d
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  Floaty: d1be5d323094f0de422bb615452d00ba26ac74dd
+  JVFloatLabeledTextField: 96c0c1b6739001801340d25b86aff990d67c4181
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  UICircularProgressRing: f25e366e0624d87973192b67e572c0712acbae85
+  UIImageViewModeScaleAspect: 11a790a0b9d248a13dc63e3a78991f1463b6d84e
+
+PODFILE CHECKSUM: 93b4f54e5f6cca050134a332314e59aec3be35a1
+
+COCOAPODS: 1.2.1

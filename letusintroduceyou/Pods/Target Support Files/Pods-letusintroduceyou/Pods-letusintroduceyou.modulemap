@@ -1,6 +1,0 @@
-framework module Pods_letusintroduceyou {
-  umbrella header "Pods-letusintroduceyou-umbrella.h"
-
-  export *
-  module * { export * }
-}
